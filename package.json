@@ -1,0 +1,22 @@
+{
+  "name": "peleyo",
+  "version": "0.0.0",
+  "description": "la",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.4.3",
+    "logfmt": "^1.1.2",
+    "couchbase": "1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kike",
+  "license": "ISC",
+	"engines": {
+		    "node": "0.10.x"
+}
+
+
+
